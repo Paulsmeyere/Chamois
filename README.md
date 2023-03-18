@@ -12,3 +12,4 @@ school. While going to school I did almost every in school activity that I could
 ![picture of Chamois Highschool](https://abc17news.b-cdn.net/abc17news.com/2019/12/school.jpg)
 
 To return to home page click [here](https://paulsmeyere.github.io/About-ME/)
+ 
